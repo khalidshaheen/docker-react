@@ -10,6 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             I was changed! Hi there! Bye there! Edit <code>src/App.js</code> and save to reload.
+            I was changd on the feature branch.
           </p>
           <a
             className="App-link"
